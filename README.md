@@ -1,1 +1,1 @@
- https://yana-kuznetsova.github.io/interno/md
+ https://yana-kuznetsova.github.io/interno/
